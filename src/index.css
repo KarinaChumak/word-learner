@@ -166,6 +166,7 @@ th {
   align-items: center;
   border-radius: 50px;
   margin-left: 1.2rem;
+  cursor: pointer;
 }
 
 .control-button p {
